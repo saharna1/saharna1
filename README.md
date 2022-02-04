@@ -1,4 +1,4 @@
-- 👋 Hej! mitt namn är Sahar.
+- 👋 Hej! Mitt namn är Sahar.
 - 👀 Jag studera med oss det här ämne.
 - 🌱 Jag hoppas att förstår allt.
 - 💞️ Jag kommer att arbeta med er tillsammans för att nå bra målen.
